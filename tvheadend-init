@@ -1,0 +1,23 @@
+Documentation
+Installation https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-stream-digital-tv-with-the-raspberry-pi-tv-hat (1)
+Installation https://www.raspberrypi.com/documentation/accessories/tv-hat.html
+Muxes https://www.tdt1.com/canales-asturias/
+Muxes https://github.com/maincenter/Lista-Canales-DTV
+Muxes /usr/share/tvheadend/data/dvb-scan/dvb-t/ 
+Muxes https://radio-tv-nederland.nl/dvbt/digitenne-kpntv.html
+
+
+Prework
+  Followed installation instructions from (1)
+  Select correct muxes for your location 1) es-Asturias
+  Select EPG and Muxes only for the Muxes you are interested in. This saves time.
+  Further configuration of tvheaded.....
+    Default codec to use
+    Where to store recordings
+    File naming scheme
+    
+    
+https://ottverse.com/change-resolution-resize-scale-video-using-ffmpeg/
+
+Isues
+Web admin pòrt exposed on diluve.
